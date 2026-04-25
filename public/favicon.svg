@@ -1,0 +1,21 @@
+<svg width="32" height="32" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="folderGradient" x1="0" y1="0" x2="0" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#C5F354" />
+      <stop offset="100%" stop-color="#98D62C" />
+    </linearGradient>
+  </defs>
+  <!-- Back Tab -->
+  <path
+    d="M62 20C62 14.4772 66.4772 10 72 10H200C205.523 10 210 14.4772 210 20V60H62V20Z"
+    fill="url(#folderGradient)"
+    opacity="0.5"
+  />
+  <!-- Front Body -->
+  <path
+    d="M10 80C10 68.9543 18.9543 60 30 60H482C493.046 60 502 68.9543 502 80V462C502 484.091 484.091 502 462 502H50C27.9086 502 10 484.091 10 462V80Z"
+    fill="url(#folderGradient)"
+  />
+  <!-- Subtle Shine -->
+  <rect x="30" y="75" width="452" height="4" rx="2" fill="white" fill-opacity="0.2" />
+</svg>
